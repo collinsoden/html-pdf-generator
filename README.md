@@ -1,1 +1,5 @@
-# html-pdf-generator
+# HTML PDF GENERATOR
+## USAGE
+
+
+## INSTALLATION 
